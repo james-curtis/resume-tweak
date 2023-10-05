@@ -51,6 +51,10 @@
     - [ ] web worker
     - [ ] wasm
     - [ ] gpu.js
+    - [ ] node-gyp
+    - [ ] headless-gl
+    - [ ] node-webgl
+    - [ ] node-bindings
 
 ### 日志方向
 - [ ] 故障检测，错误上报
