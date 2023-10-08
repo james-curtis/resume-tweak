@@ -69,6 +69,9 @@
 - [ ] ssr
 - [ ] 页面间通信
 - [ ] 字体显示问题，衬线体、无衬线体，font-weight
+- [ ] CDN
+- [ ] NGINX gzip、brotli
+- [ ] 
 
 ### 多端开发、大前端
 - [ ] 浏览器拓展插件
@@ -113,6 +116,12 @@
 - [ ] tsrpc
 - [ ] 
 
+### 对接第三方平台
+- [ ] wxpay、alipay
+- [ ] QQ OAuth2.0
+- [ ] SSO
+- [ ] 双 token
+- [ ] 
 
 ### 企业级方向
 - [ ] cas、oauth、ladp、http ba
