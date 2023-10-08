@@ -7,11 +7,11 @@
 - [ ] 管理能力
 - [ ] 项目排期
 - [ ] 团队沟通
-  - 技术选型专题
-    - [ ] skypack
-    - [ ] bestofjs
-    - [ ] npm trends
-    - [ ] npm.devtool
+- 技术选型专题
+  - [ ] skypack
+  - [ ] bestofjs
+  - [ ] npm trends
+  - [ ] npm.devtool
 
 ### 团队协作
 - [x] 内部基建、低代码、组件库
@@ -46,15 +46,14 @@
 - [x] 渲染优化、虚拟列表
 - [x] 大文件上传
 - [ ] 性能优化 监控  全链路性能优化 性能检测 Lighthouse 计算方式
-- [ ] 关注性能， 提升产品稳定性和用户体验
-  - 高性能专题
-    - [ ] web worker
-    - [ ] wasm
-    - [ ] gpu.js
-    - [ ] node-gyp
-    - [ ] headless-gl
-    - [ ] node-webgl
-    - [ ] node-bindings
+- 高性能专题
+  - [ ] web worker
+  - [ ] wasm
+  - [ ] gpu.js
+  - [ ] node-gyp
+  - [ ] headless-gl
+  - [ ] node-webgl
+  - [ ] node-bindings
 
 ### 日志方向
 - [ ] 故障检测，错误上报
