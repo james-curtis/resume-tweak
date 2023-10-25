@@ -114,7 +114,7 @@ requestAnimationFrame(()=＞{
 - [ ] CDN
 - [ ] NGINX gzip、brotli
 - [ ] 安全三角、嵌套菜单
-- [ ] 
+- [ ] [页面版本更新提示](https://mp.weixin.qq.com/s/PT0PZ3S1Cvh2nltcIKwa3g)
 
 ### 异常兜底
 - [ ] 页面白屏监控
