@@ -95,6 +95,9 @@ requestAnimationFrame(()=＞{
   - [ ] node-webgl
   - [ ] node-bindings
 
+### 技术负债治理
+- [ ] 登录无限跳转轮询
+
 ### 日志方向
 - [ ] 故障检测，错误上报
 
