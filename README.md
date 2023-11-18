@@ -125,6 +125,7 @@ requestAnimationFrame(()=＞{
 - [ ] 客户端跨端 Electron
 - [ ] 移动端跨端开发 expo rn
 - [x] 跨端 uniapp
+- [ ] react native、expo
 - [ ] websocket
 - [ ] 小程序热更新
 - [ ] webview 性能优化，预加载
