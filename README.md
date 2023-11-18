@@ -120,12 +120,11 @@ requestAnimationFrame(()=＞{
 - [ ] 页面白屏监控
 - [ ] 
 
-### 多端开发、大前端
+### 多端开发、大前端、小程序系列
 - [ ] 浏览器拓展插件
 - [ ] 客户端跨端 Electron
 - [ ] 移动端跨端开发 expo rn
 - [x] 跨端 uniapp
-- [ ] react native、expo
 - [ ] websocket
 - [ ] 小程序热更新
 - [ ] webview 性能优化，预加载
