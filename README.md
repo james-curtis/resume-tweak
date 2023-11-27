@@ -109,6 +109,7 @@ requestAnimationFrame(()=＞{
 - [ ] 浏览器兼容性
 - [ ] 动效动画
 - [ ] ssr
+- [ ] esr https://juejin.cn/post/7031570308293197837#heading-33
 - [ ] 页面间通信
 - [ ] 字体显示问题，衬线体、无衬线体，font-weight
 - [ ] CDN
