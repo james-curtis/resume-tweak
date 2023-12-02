@@ -16,6 +16,7 @@
 ### 团队协作
 - [x] 内部基建、低代码、组件库
 - [x] 规范 pr 和 commit
+- [ ] [工程化](https://mp.weixin.qq.com/s/VVqom0saUCED2-4D2mAAxw)
 
 ### 数据监控、运营管理
 - [x] 使用数据埋点
