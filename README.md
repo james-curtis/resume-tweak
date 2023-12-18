@@ -105,6 +105,8 @@ requestAnimationFrame(()=＞{
 - [ ] sourcemap 可视化
   - https://github.com/evanw/source-map-visualization
   - https://github.com/sokra/source-map-visualization/
+- [ ] chrome debug protocol | v8 debug protocol
+  - https://juejin.cn/post/7096811694277525511#heading-19
 
 ### 页面改进、用户体验
 - [x] 移动端适配
