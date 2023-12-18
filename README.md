@@ -101,6 +101,7 @@ requestAnimationFrame(()=＞{
 
 ### 日志方向
 - [ ] 故障检测，错误上报
+- [ ] 离线解析 sourcemap cli 参考：https://github.com/7ippo/sourcemapping
 
 ### 页面改进、用户体验
 - [x] 移动端适配
