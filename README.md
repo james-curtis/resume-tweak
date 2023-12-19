@@ -221,7 +221,10 @@ requestAnimationFrame(()=＞{
 
 ### 招聘要求
 - [ ] 对某一领域有深入理解包括但不限于$/浏览器内核/性能优化/ reacti源码vue源码
-- [ ] 
+
+### JS 深度专项
+- [ ] 事件循环
+  - [揭开事件循环的神秘面纱](https://mp.weixin.qq.com/s/zDUqVqPH7_DxuEz9ovs-OA)
 
 ## 手撕
 
