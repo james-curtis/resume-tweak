@@ -226,6 +226,10 @@ requestAnimationFrame(()=＞{
 - [ ] 事件循环
   - [揭开事件循环的神秘面纱](https://mp.weixin.qq.com/s/zDUqVqPH7_DxuEz9ovs-OA)
 
+### debug
+- [67 Weird Debugging Tricks Your Browser Doesn't Want You to Know](https://alan.norbauer.com/articles/browser-debugging-tricks)
+
+
 ## 手撕
 
 ---
