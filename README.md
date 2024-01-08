@@ -219,6 +219,10 @@ requestAnimationFrame(()=＞{
 - [ ] jekins
 - [ ] 虚拟化 kubevirt、libvirt
 
+### canvas
+- [ ] https://github.com/LHRUN/paint-board
+- [ ] 
+
 ### 招聘要求
 - [ ] 对某一领域有深入理解包括但不限于$/浏览器内核/性能优化/ reacti源码vue源码
 
