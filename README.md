@@ -328,4 +328,8 @@ nzhcn.toMoney("100111.11");         // 转中文金额 >> 人民币壹拾万零�
 
 - https://github.com/JacksonTian/fks
 - https://component-party.dev/
+- 
+
+## 画图功夫
+- [如何画好技术图？](https://open.alipay.com/portal/forum/post/109201022)
 
