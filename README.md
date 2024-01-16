@@ -35,6 +35,8 @@
 - [ ] vscode 研发插件
 - [ ] 大前端统一脚手架
 
+- [不同打包工具下的环境变量配置方式对比](https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247510557&idx=1&sn=fa70338181d18a1ab0d013440cbe8d7d)
+
 ### 研发提效
 - [ ] devtool直接打开文件原理
 - [ ] 
@@ -133,6 +135,7 @@ requestAnimationFrame(()=＞{
 - [ ] 客户端跨端 Electron
 - [ ] 移动端跨端开发 expo rn
 - [x] 跨端 uniapp
+  - [uniapp 项目开发经验总结](https://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&mid=2247511030&idx=1&sn=f559610fa57fbd54beb6bc02e8d6bef3)
 - [ ] websocket
 - [ ] 小程序热更新
 - [ ] webview 性能优化，预加载
@@ -181,7 +184,8 @@ requestAnimationFrame(()=＞{
 ### 企业级方向
 - [ ] cas、oauth、ladp、http ba
 - [ ] 全局水印
-- [ ] 
+- [ ] 内部 office
+  - [开发一个腾讯文档要多久？借助 Luckysheet，仅需 3 分钟！](https://mp.weixin.qq.com/s/gBMN9fJ10m9ioO5O3IlZHQ)
 
 ### 真实项目经历
 - [ ] 开发、测试、预发、生产上线流程
@@ -235,7 +239,7 @@ requestAnimationFrame(()=＞{
 
 
 ## 手撕
-
+- [十分钟，带你深入了解 axios 源码实现](https://mp.weixin.qq.com/s?__biz=MzkxNjUxMDg4Ng==&mid=2247487983&idx=1&sn=9fe07fee2d329bee0f3d311d24d4ec04)
 ---
 前端开发中有什么经典的轮子值得自己去实现一遍？ - 晴小篆的回答 - 知乎
 https://www.zhihu.com/question/29380608/answer/2972536238
