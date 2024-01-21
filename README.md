@@ -225,6 +225,7 @@ requestAnimationFrame(()=＞{
 
 ### canvas
 - [ ] https://github.com/LHRUN/paint-board
+- [ ] https://github.com/linghuam/myblog/blob/master/source/_others/前端面试-图形库.md
 - [ ] 
 
 ### 招聘要求
