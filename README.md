@@ -231,6 +231,7 @@ requestAnimationFrame(()=＞{
 - [ ] 【深度】扒开V8引擎的源码，我找到了你们想要的前端算法 https://juejin.cn/post/6844903935375835150?from=search-suggest
 - [ ] promise.then 中 return Promise.resolve 后，发生了什么？ https://www.zhihu.com/question/453677175/answer/1841325386
 - [ ] V8 Promise源码全面解读 https://juejin.cn/post/7055202073511460895#heading-39
+- [ ] 微任务终极考验，一文讲解async/await转换Promise https://zhuanlan.zhihu.com/p/450906325
 
 ### 招聘要求
 - [ ] 对某一领域有深入理解包括但不限于$/浏览器内核/性能优化/ reacti源码vue源码
