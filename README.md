@@ -243,6 +243,9 @@ requestAnimationFrame(()=＞{
 ### debug
 - [67 Weird Debugging Tricks Your Browser Doesn't Want You to Know](https://alan.norbauer.com/articles/browser-debugging-tricks)
 
+### 框架源码
+- [ ] [跟着我，从0实现React18](https://github.com/BetaSu/big-react)
+- [ ] [「React技术揭秘」 一本自顶向下的React源码分析书](https://github.com/BetaSu/just-react?tab=readme-ov-file)
 
 ## 手撕
 - [十分钟，带你深入了解 axios 源码实现](https://mp.weixin.qq.com/s?__biz=MzkxNjUxMDg4Ng==&mid=2247487983&idx=1&sn=9fe07fee2d329bee0f3d311d24d4ec04)
