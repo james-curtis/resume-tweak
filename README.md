@@ -34,6 +34,7 @@
 - [ ] 微前端
 - [ ] vscode 研发插件
 - [ ] 大前端统一脚手架
+- [ ] [devtool 跳转 ide](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514833&idx=1&sn=7eedc7b56f86a62df9382f8519d22fd6&chksm=eb0782a8dc700bbe8919612cc7483f4b9df590d5dbb2f65de40e07008b9f03083242c23ad6ca&mpshare=1&scene=23&srcid=01228bQDZKyZV4TqFmEQToTW&sharer_shareinfo=6ab1745798d60896250ef22f1297f15b&sharer_shareinfo_first=2a614433743ae45442503aa986476d35#rd)
 
 - [不同打包工具下的环境变量配置方式对比](https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247510557&idx=1&sn=fa70338181d18a1ab0d013440cbe8d7d)
 
