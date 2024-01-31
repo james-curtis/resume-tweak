@@ -231,6 +231,7 @@ requestAnimationFrame(()=＞{
 ### canvas
 - [ ] https://github.com/LHRUN/paint-board
 - [ ] https://github.com/linghuam/myblog/blob/master/source/_others/前端面试-图形库.md
+- [ ] [轻量级、可插拔、OOP 式图形编辑器开发引擎](https://mp.weixin.qq.com/s/-jPESollUyoGjZZ8Q6_oTA)
 
 ### JS engine
 - [ ] 【深度】扒开V8引擎的源码，我找到了你们想要的前端算法 https://juejin.cn/post/6844903935375835150?from=search-suggest
