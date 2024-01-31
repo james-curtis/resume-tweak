@@ -2,7 +2,7 @@
 
 ## 改进方向
 
-### 团队 leader
+### 团队 leader 意识
 - [ ] 架构能力
 - [ ] 管理能力
 - [ ] 项目排期
@@ -17,6 +17,8 @@
 - [x] 内部基建、低代码、组件库
 - [x] 规范 pr 和 commit
 - [ ] [工程化](https://mp.weixin.qq.com/s/VVqom0saUCED2-4D2mAAxw)
+- [ ] 文档体验优化
+  - [ ] [Asciinema 终端录屏](https://mp.weixin.qq.com/s/GLQvRRvVjbtIv1FsDbpsDg)
 
 ### 数据监控、运营管理
 - [x] 使用数据埋点
@@ -34,9 +36,9 @@
 - [ ] 微前端
 - [ ] vscode 研发插件
 - [ ] 大前端统一脚手架
-- [ ] [devtool 跳转 ide](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514833&idx=1&sn=7eedc7b56f86a62df9382f8519d22fd6&chksm=eb0782a8dc700bbe8919612cc7483f4b9df590d5dbb2f65de40e07008b9f03083242c23ad6ca&mpshare=1&scene=23&srcid=01228bQDZKyZV4TqFmEQToTW&sharer_shareinfo=6ab1745798d60896250ef22f1297f15b&sharer_shareinfo_first=2a614433743ae45442503aa986476d35#rd)
+- [ ] [devtool 跳转 ide](https://mp.weixin.qq.com/s/lW_VWn9dPZyMNgTfHA4Nqw)
 
-- [不同打包工具下的环境变量配置方式对比](https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247510557&idx=1&sn=fa70338181d18a1ab0d013440cbe8d7d)
+- [不同打包工具下的环境变量配置方式对比](https://mp.weixin.qq.com/s/nXQSBNxIuiCkzhIKXOQCxA)
 
 ### 研发提效
 - [ ] devtool直接打开文件原理
@@ -54,7 +56,7 @@
 - [x] 渲染优化、虚拟列表
 - [x] 大文件上传
 - [ ] 性能优化 监控  全链路性能优化 性能检测 Lighthouse 计算方式
-- [ ] [performance、memory indicator经验](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649859678&idx=1&sn=20ad42dc0bf0ebe614d04c063a474eea&chksm=f1756c9dc602e58b45e9af0d10e503d5b27d154c0b2f1d7a548d1db919d04eb99e1a035b7462&mpshare=1&scene=23&srcid=0122hnMZStBXidRkCCWGyzTR&sharer_shareinfo=6f3ca77ef8024d3b57a7313d8809103f&sharer_shareinfo_first=f41ac2c44f1777f4e59c4d098175a403#rd)
+- [ ] [performance、memory indicator经验](https://mp.weixin.qq.com/s/s4mGvONAs-2BhPEcUOI7Wg)
 - [ ] web 资源在页面空闲时预加载
   - [ ] 页面空闲检测
 ```js
@@ -116,7 +118,7 @@ requestAnimationFrame(()=＞{
 - [x] 移动端适配
 - [ ] pwa
 - [ ] 浏览器缓存 sharedWorker
-- [ ] [前端首屏优化 | 借助客户端能力提升 H5 首屏的 8 个手段](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513844&idx=1&sn=4e6e5e3f1fea79c3c8f2b69446dbd5eb&chksm=eb078e8ddc70079b1054a379849f78e49ffd49c15f62a5c9c60e88a7d99a32ae304d11000433&mpshare=1&scene=23&srcid=08284EHQ1gTmTXPSPZTEBE2M&sharer_sharetime=1693221457937&sharer_shareid=ce373000e59a48726434cd087861e928#rd)
+- [ ] [前端首屏优化 | 借助客户端能力提升 H5 首屏的 8 个手段](https://mp.weixin.qq.com/s/kYUrysBeVIqph4UAaUCNEA)
 - [ ] 浏览器兼容性
 - [ ] 动效动画
 - [ ] ssr
@@ -137,7 +139,7 @@ requestAnimationFrame(()=＞{
 - [ ] 客户端跨端 Electron
 - [ ] 移动端跨端开发 expo rn
 - [x] 跨端 uniapp
-  - [uniapp 项目开发经验总结](https://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&mid=2247511030&idx=1&sn=f559610fa57fbd54beb6bc02e8d6bef3)
+  - [uniapp 项目开发经验总结](https://mp.weixin.qq.com/s/rVRtbMSTOHEB6pRJZvB9fA)
 - [ ] websocket
 - [ ] 小程序热更新
 - [ ] webview 性能优化，预加载
@@ -253,7 +255,7 @@ requestAnimationFrame(()=＞{
 - [ ] [「React技术揭秘」 一本自顶向下的React源码分析书](https://github.com/BetaSu/just-react?tab=readme-ov-file)
 
 ## 手撕
-- [十分钟，带你深入了解 axios 源码实现](https://mp.weixin.qq.com/s?__biz=MzkxNjUxMDg4Ng==&mid=2247487983&idx=1&sn=9fe07fee2d329bee0f3d311d24d4ec04)
+- [十分钟，带你深入了解 axios 源码实现](https://mp.weixin.qq.com/s/IawaveDYDjEwzJEDB1jNLg)
 ---
 前端开发中有什么经典的轮子值得自己去实现一遍？ - 晴小篆的回答 - 知乎
 https://www.zhihu.com/question/29380608/answer/2972536238
