@@ -54,6 +54,7 @@
 - [x] 渲染优化、虚拟列表
 - [x] 大文件上传
 - [ ] 性能优化 监控  全链路性能优化 性能检测 Lighthouse 计算方式
+- [ ] [performance、memory indicator经验](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649859678&idx=1&sn=20ad42dc0bf0ebe614d04c063a474eea&chksm=f1756c9dc602e58b45e9af0d10e503d5b27d154c0b2f1d7a548d1db919d04eb99e1a035b7462&mpshare=1&scene=23&srcid=0122hnMZStBXidRkCCWGyzTR&sharer_shareinfo=6f3ca77ef8024d3b57a7313d8809103f&sharer_shareinfo_first=f41ac2c44f1777f4e59c4d098175a403#rd)
 - [ ] web 资源在页面空闲时预加载
   - [ ] 页面空闲检测
 ```js
