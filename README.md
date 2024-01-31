@@ -233,6 +233,8 @@ requestAnimationFrame(()=＞{
 - [ ] V8 Promise源码全面解读 https://juejin.cn/post/7055202073511460895#heading-39
 - [ ] 微任务终极考验，一文讲解async/await转换Promise https://zhuanlan.zhihu.com/p/450906325
 
+### 浏览器组成原理
+- [ ] [浏览器是如何渲染页面的？](https://open.alipay.com/portal/forum/post/108901030)
 ### 招聘要求
 - [ ] 对某一领域有深入理解包括但不限于$/浏览器内核/性能优化/ reacti源码vue源码
 
