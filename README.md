@@ -140,6 +140,7 @@ requestAnimationFrame(()=＞{
 - [ ] 小程序热更新
 - [ ] webview 性能优化，预加载
 - [ ] 小程序离线包
+- [ ] 拉起其他 app
 
 ### 后端方向
 - [ ] node后端、nestjs
