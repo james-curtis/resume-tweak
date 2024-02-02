@@ -125,6 +125,8 @@ requestAnimationFrame(()=＞{
 - [ ] esr https://juejin.cn/post/7031570308293197837#heading-33
 - [ ] 页面间通信
 - [ ] 字体显示问题，衬线体、无衬线体，font-weight
+  - [ ] 无极字体、可变字体
+    - [突破限制，CSS font-variation 可变字体的魅力](https://www.cnblogs.com/coco1s/p/15944634.html)
 - [ ] CDN
 - [ ] NGINX gzip、brotli
 - [ ] 安全三角、嵌套菜单
