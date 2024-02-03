@@ -274,11 +274,11 @@ https://www.zhihu.com/question/29380608/answer/2972536238
 
 **dayjs** ：Moment.js 的 **2kB** 轻量化方案，拥有同样强大的 API；能完美复刻那么强大的 Moment，而且整个工程项目 **零依赖!** 
 
-**solidjs：**这个可以说是继前端三大框架之后， 最有名的  web 框架了。性能极其强大、兼容 jsx 语法、压缩之后GZIP只有 7k， 它的源码包也是 零依赖， 难道不想看看它是怎么实现的？
+**solidjs：** 这个可以说是继前端三大框架之后， 最有名的  web 框架了。性能极其强大、兼容 jsx 语法、压缩之后GZIP只有 7k， 它的源码包也是 零依赖， 难道不想看看它是怎么实现的？
 
 **map-obj**： 这个比价小众了， 是做[深度对象遍历](https://www.zhihu.com/search?q=深度对象遍历&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A2972536238})的，怕大家找不到我直接贴链接， 怎么说呢， 源码就 70 行， 掌握好其中精髓之后， 妈妈再也不用担心面试官问我深度遍历 与 [递归](https://www.zhihu.com/search?q=递归&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A2972536238})问题了。[https://github.com/sindresorhus/map-obj](https://link.zhihu.com/?target=https%3A//github.com/sindresorhus/map-obj)
 
-**[ahooks](https://www.zhihu.com/search?q=ahooks&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A2972536238})：**高质量高可靠性的 [react hooks](https://www.zhihu.com/search?q=react hooks&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A2972536238}) 封装。 之所以推荐他， 因为它的源码里面有 demo、有 test， 各种各样的 hooks 封装可以说是涵盖各种各样的业务开发场景。 可以说是保姆级教程封装的封装。 也是妈妈不用担心面试官问我 react hooks 相关问题。
+**[ahooks](https://www.zhihu.com/search?q=ahook)：**高质量高可靠性的 [react hooks](https://www.zhihu.com/search?q=react hooks) 封装。 之所以推荐他， 因为它的源码里面有 demo、有 test， 各种各样的 hooks 封装可以说是涵盖各种各样的业务开发场景。 可以说是保姆级教程封装的封装。 也是妈妈不用担心面试官问我 react hooks 相关问题。
 
 [fast-diff](https://link.zhihu.com/?target=https%3A//github.com/jhchen/fast-diff)**:**  这个也比较小众， 当然也是零依赖， 它的作用是对大对象进行深度对比， 它有用极快的 diff 算法。 推荐这个的原因是， 这个库算法优秀， 代码量也比价少， 而且作者代码注释写的非常好非常多， 生怕你不懂， 可以说是代码的一半都是注释。
 [https://github.com/jhchen/fast-diff](https://link.zhihu.com/?target=https%3A//github.com/jhchen/fast-diff)
@@ -294,18 +294,12 @@ https://www.zhihu.com/question/29380608/answer/2972536238
 
 **adamwdraper/Numeral-js：** 强烈推荐！！！这个是是做数字串格式化与数字操作的。功能非常的强大， 放两个图自己感受一下就懂了。 而且它竟然是**零依赖家族，** 最简单的代码实现最强大的功能。 源码看不懂都没关系， 有着三倍于源码的单测量，看不懂源码直接一步一步 debug 来看。保姆级！
 
-
-
 **wechatsync/Wechatsync：** 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、[简书](https://www.zhihu.com/search?q=简书&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A2972536238})、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。
 
 这个真的是学习 chrome 插件开发的神级项目！！！ 学习这个可以深入理解 chrome 登录状态获取、markdown 文档转换、爬虫抓取等一些列的技术和能力；
 
-
-
 **feross/clipboard-copy：** 轻量级API ,直接复制内容到粘贴板。 源码非常少， 只有60行源码， 功能很强， 做到了复制内容到粘贴板，支持了降级处理等。 主要可以看看， 如果在 navigator.clipboard.writeText api 无法使用的情况下，该如何处理复制内容到粘贴板的问题；
 [https://github.com/feross/clipboard-copy](https://link.zhihu.com/?target=https%3A//github.com/feross/clipboard-copy)
-
-
 
 **scroll-into-view:** 这个就很牛逼了，在你页面非常长的时候， 可以通过这个 api 直接给定元素，可以让给定的元素直接滚动到可视区；大名鼎鼎的 antd 就用到了这个库， 在表单场景自动跳转到错误的元素就是用的他。
 它有两个核心库， 加起来代码不超过 600 行（其中一半都是注释）， 也是保姆级教程；
@@ -313,16 +307,12 @@ https://www.zhihu.com/question/29380608/answer/2972536238
 [https://github.com/scroll-into-view/scroll-into-view-if-needed](https://link.zhihu.com/?target=https%3A//github.com/scroll-into-view/scroll-into-view-if-needed)
 [https://github.com/scroll-into-view/compute-scroll-into-view](https://link.zhihu.com/?target=https%3A//github.com/scroll-into-view/compute-scroll-into-view)
 
-
-
 **rstacruz/[nprogress](https://www.zhihu.com/search?q=nprogress&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A2972536238})**：这个项目虽然有一定年代了， 但是内容一点儿也不过时。 它是给页面顶部添加加载进队条的。功能强大、源码不多、零依赖、实现简单、兼容性极强；
 如果再配合获取页面静态资源加载进度， 岂不是爽歪歪， 最牛逼的页面加载进度条： [如何实现网页资源加载进度条？](https://www.zhihu.com/question/578984216/answer/3131308956)
 
 **puleos/[object-hash](https://www.zhihu.com/search?q=object-hash&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A2972536238}):** 基本上囊括了所有前端主流加密相关内容；源码也不多， 零依赖；还怕面试官问你加密问题？不存在的。
 
-
-
-**sindresorhus/p-defer：**非常经典的 defer [函数](https://www.zhihu.com/search?q=函数&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A2972536238})；使用场景非常多。 举一个例子， 比如A 页面执行了某一个操作， 同时 B 页面也执行了某一个操作。 但是我需要在 A 页面执行完成之后， 再执行 B 页面的后续操作任务， 甚至 B 页面的后续操作任务还需要拿到 A 页面的值；这个场景下 defer 函数作用就凸显出来了。
+**sindresorhus/p-defer：** 非常经典的 defer [函数](https://www.zhihu.com/search?q=函数&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A2972536238})；使用场景非常多。 举一个例子， 比如A 页面执行了某一个操作， 同时 B 页面也执行了某一个操作。 但是我需要在 A 页面执行完成之后， 再执行 B 页面的后续操作任务， 甚至 B 页面的后续操作任务还需要拿到 A 页面的值；这个场景下 defer 函数作用就凸显出来了。
 源码只有 6 行；
 项目链接：[GitHub - sindresorhus/p-defer: Create a deferred promise](https://link.zhihu.com/?target=https%3A//github.com/sindresorhus/p-defer)
 
