@@ -349,3 +349,18 @@ nzhcn.toMoney("100111.11");         // 转中文金额 >> 人民币壹拾万零�
 ## 画图功夫
 - [如何画好技术图？](https://open.alipay.com/portal/forum/post/109201022)
 
+
+## 简历注意事项
+
+### 排版
+- [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
+- [W3C 中文排版需求](https://www.w3.org/TR/clreq/)
+
+### 有哪些模块
+尽量多参考各个写简历网站的参考模块，结合自身情况考虑
+
+| 实习僧 | BOSS 直聘 | ... |
+|--|--|--|
+|![image](https://github.com/james-curtis/public-diary/assets/49338067/ab907ee4-71ff-4b2f-9467-2923397a7447)|![image](https://github.com/james-curtis/public-diary/assets/49338067/c41f7a32-50d4-4d93-9803-a335e7ea9da1)|
+
+- [代码随想录 程序员的简历应该这么写！！](https://programmercarl.com/%E5%89%8D%E5%BA%8F/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%AE%80%E5%8E%86.html#%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
