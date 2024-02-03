@@ -364,3 +364,9 @@ nzhcn.toMoney("100111.11");         // 转中文金额 >> 人民币壹拾万零�
 |![image](https://github.com/james-curtis/public-diary/assets/49338067/ab907ee4-71ff-4b2f-9467-2923397a7447)|![image](https://github.com/james-curtis/public-diary/assets/49338067/c41f7a32-50d4-4d93-9803-a335e7ea9da1)|
 
 - [代码随想录 程序员的简历应该这么写！！](https://programmercarl.com/%E5%89%8D%E5%BA%8F/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%AE%80%E5%8E%86.html#%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
+
+### 技术点撰写技巧
+#### star 法则
+- [什么是STAR法则？【简历/面试技巧】](https://www.nowcoder.com/discuss/353156474547412992)
+- [优秀简历法则：从star法则到start法则（简历系列2/3）](https://zhuanlan.zhihu.com/p/67775969)
+- [如何使用STAR法则写自己的简历啊？缺少开发经验的简历。](https://www.zhihu.com/question/47061396)
