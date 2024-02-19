@@ -23,6 +23,8 @@
 ### 数据监控、运营管理
 - [x] 使用数据埋点
 - [ ] 开发埋点监控平台、SDK、浏览器 DevTools 插件
+- [ ] 性能优化 监控  全链路性能优化 性能检测 Lighthouse 计算方式
+  - [ ] [前端监控SDK web-see](https://github.com/xy-sea/web-see)
 - [ ] 全链路日志，全局唯一请求
 - [ ] 
 
@@ -55,7 +57,6 @@
 - [x] 前端接入前端性能监控
 - [x] 渲染优化、虚拟列表
 - [x] 大文件上传
-- [ ] 性能优化 监控  全链路性能优化 性能检测 Lighthouse 计算方式
 - [ ] [performance、memory indicator经验](https://mp.weixin.qq.com/s/s4mGvONAs-2BhPEcUOI7Wg)
 - [ ] web 资源在页面空闲时预加载
   - [ ] 页面空闲检测
