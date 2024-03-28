@@ -1,5 +1,8 @@
 # 简历调优
 
+## awesome
+- https://github.com/yangshun/tech-interview-handbook
+
 ## 改进方向
 
 ### 团队 leader 意识
